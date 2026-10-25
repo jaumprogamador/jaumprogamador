@@ -81,5 +81,5 @@ Captura cotações de corretoras que não oferecem API e as entrega ao MetaTrade
 
 ## Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jvcardosooo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaumprogamador)
 [![E-mail](https://img.shields.io/badge/E--mail-contatojoaocardosoo%40icloud.com-555555?style=flat&logo=icloud&logoColor=white)](mailto:contatojoaocardosoo@icloud.com)
