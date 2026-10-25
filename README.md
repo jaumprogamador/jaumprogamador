@@ -15,7 +15,7 @@ O **SistemaBT**, plataforma de assinaturas que criei e mantenho em produção, j
 | 💰 Processou em vendas | cerca de **R$ 1 milhão** |
 | 🛒 Processou em compras | **9 mil+** |
 | 🌐 Atendeu em 12 meses | **11,3 milhões** de requisições, de usuários em **57 países** |
-| 👥 Chegou a | cerca de **1.000** assinantes ao mesmo tempo |
+| 👥 Chegou a | cerca de **200** assinantes ao mesmo tempo |
 
 ## Tecnologias
 
