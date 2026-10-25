@@ -20,6 +20,7 @@ O **SistemaBT**, plataforma de assinaturas que criei e mantenho em produção, j
 ## Tecnologias
 
 **Linguagens**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=dotnet&logoColor=white)
@@ -30,6 +31,7 @@ O **SistemaBT**, plataforma de assinaturas que criei e mantenho em produção, j
 ![MQL5](https://img.shields.io/badge/MQL5-1A5FB4?style=flat)
 
 **Backend e dados**
+
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
@@ -38,6 +40,7 @@ O **SistemaBT**, plataforma de assinaturas que criei e mantenho em produção, j
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 
 **Infraestrutura**
+
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
