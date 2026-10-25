@@ -52,9 +52,9 @@ O **SistemaBT**, plataforma de assinaturas que criei e mantenho em produção, j
 > Os códigos são privados, porque são sistemas de clientes em produção. Abaixo, o que cada um faz e como foi construído.
 
 ### [SistemaBT](https://github.com/jaumprogamador/sistemabt-case) · plataforma de assinaturas e acessos
-`Python` `FastAPI` `PostgreSQL` `React` `Nginx` `systemd`
+`Python` `FastAPI` `discord.py` `PostgreSQL` `React` `Nginx`
 
-Recebe as vendas por webhook (Kiwify, Lastlink, Cakto) e libera ou corta o acesso automaticamente no Discord, no Telegram, no TradingView e nos indicadores do MetaTrader 5. A versão 2, em produção, roda em 9 processos isolados, com cerca de 990 testes automatizados. **[Ver estudo de caso →](https://github.com/jaumprogamador/sistemabt-case)**
+Administra sozinho uma comunidade de **1.065 membros no Discord**: o cliente compra, se registra por um botão e recebe os cargos na hora; venceu ou cancelou, o cargo sai sozinho. Também libera o acesso no Telegram, no TradingView e nos indicadores do MetaTrader 5. A versão 2, em produção, roda em 9 processos isolados, com cerca de 990 testes automatizados.
 
 ### ADT Copilot · fluxo de ordens em tempo real
 `TypeScript` `Node.js` `React` `Redis` `NATS` `Rust/WASM`
