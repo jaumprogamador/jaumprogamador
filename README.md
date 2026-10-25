@@ -10,7 +10,7 @@ Gosto de resolver problemas e não largo um até resolver. Já aprendi C++ para 
 
 O **SistemaBT**, plataforma de assinaturas que criei e mantenho em produção, já:
 
-| | |
+| O que | Quanto |
 | --- | --- |
 | 💰 Processou em vendas | cerca de **R$ 1 milhão** |
 | 🛒 Processou em compras | **9 mil+** |
