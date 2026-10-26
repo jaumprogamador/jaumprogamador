@@ -61,10 +61,10 @@ Administra sozinho uma comunidade de **1.065 membros no Discord**: o cliente com
 
 Plataforma web com footprint, heatmap e boleta integrada à corretora Exness. Recebe dados de MetaTrader 5, Binance, BingX e Bookmap por WebSocket. Nova versão em construção com Rust, Go e WebGL2.
 
-### GerenciaBT · indicador para MetaTrader 5
+### [GerenciaBT](https://github.com/jaumprogamador/gerenciabt) · indicador para MetaTrader 5
 `MQL5`
 
-17 módulos de análise de volume, compilados em 4 versões otimizadas por processador (x64, AVX, AVX2 e AVX-512). Licença com criptografia, trava por hardware e atualização automática.
+16 ferramentas de análise de volume sobre um framework próprio, em que cada ferramenta é um produto com seus cálculos, eventos e buffers. Compilado em 4 versões otimizadas por processador (x64, AVX, AVX2 e AVX-512). Licença com criptografia, trava por hardware e atualização automática.
 
 ### ObProfit · ponte de cotações para corretoras sem API
 `C++` `Qt` `C#` `WPF` `Selenium`
